@@ -3,6 +3,9 @@
 开发者英语提升
 
 
+## 句子
+
+I really didn’t know shit 我真的什么都不知道 [My Decade in Review](https://overreacted.io/my-decade-in-review/)
 
 
 |单词 | 词性|注解|例句| 
