@@ -14,8 +14,8 @@ I didn’t have any industry connections.
 Every person’s story is unique and not directly reproducible```(ajd 可再生的，可复写的)``` 
 每个人的故事都是独一无二的，不能直接复制的。
 
-I’ve benefited immensely(```adj 及其的，非常的``` )from the privilege(```n. 特权；优待```) of being born in an upper middle class family 
+I’ve benefited immensely(```adj 及其的，非常的``` )from the privilege(```n. 特权；优待```) of being born in an upper middle class family<br>
 我出生在一个中上层阶级家庭 这样我受益匪浅
 
 In conclusion, the Reducer Hook makes sure that this portion(```n 部分```) of the state management is encapsulated(```vt 将…封进内部```) with its own logic
-总之
+总之，Reducer钩子确保状态管理的这一部分使用自己内部的逻辑封装
