@@ -19,3 +19,6 @@ I’ve benefited immensely(```adj 及其的，非常的``` )from the privilege(`
 
 In conclusion, the Reducer Hook makes sure that this portion(```n 部分```) of the state management is encapsulated(```vt 将…封进内部```) with its own logic.<br>
 总之，Reducer钩子确保状态管理的这一部分使用自己内部的逻辑封装
+
+I didn’t have a firm grasp(```n. 抓，握；理解，领会```) on some of the subtleties(```n. 微妙```).<br/>
+我对其中的微妙之处没有牢固的掌握
